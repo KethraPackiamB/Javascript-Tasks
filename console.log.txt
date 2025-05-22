@@ -1,0 +1,117 @@
+index2.js:9 Addition:68
+index2.js:10 Subtraction :25
+index2.js:11 Multiplication :200
+index2.js:12 Division : 9
+index2.js:15 welcome to Javascript Programmming
+ErrorHandling.js:8 Error has found
+ErrorHandling.js:16 0
+ErrorHandling.js:22 Executed
+ErrorHandling.js:8 Error has found
+ErrorHandling.js:16 49
+ErrorHandling.js:22 Executed
+ErrorHandling.js:8 Error has found
+ErrorHandling.js:16 0
+ErrorHandling.js:22 Executed
+API.js:4 (250) [{…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, …]
+0
+: 
+{name: {…}, tld: Array(1), cca2: 'ER', ccn3: '232', cioc: 'ERI', …}
+1
+: 
+{name: {…}, tld: Array(1), cca2: 'CM', ccn3: '120', cioc: 'CMR', …}
+2
+: 
+{name: {…}, tld: Array(1), cca2: 'ME', ccn3: '499', cioc: 'MNE', …}
+3
+: 
+{name: {…}, tld: Array(1), cca2: 'FJ', ccn3: '242', cioc: 'FIJ', …}
+4
+: 
+{name: {…}, tld: Array(1), cca2: 'TN', ccn3: '788', cioc: 'TUN', …}
+5
+: 
+{name: {…}, tld: Array(1), cca2: 'SN', ccn3: '686', cioc: 'SEN', …}
+6
+: 
+{name: {…}, tld: Array(1), cca2: 'GS', ccn3: '239', independent: false, …}
+7
+: 
+{name: {…}, tld: Array(1), cca2: 'BR', ccn3: '076', cioc: 'BRA', …}
+8
+: 
+{name: {…}, tld: Array(1), cca2: 'LI', ccn3: '438', cioc: 'LIE', …}
+9
+: 
+{name: {…}, tld: Array(1), cca2: 'MX', ccn3: '484', cioc: 'MEX', …}
+10
+: 
+{name: {…}, tld: Array(2), cca2: 'PS', ccn3: '275', cioc: 'PLE', …}
+11
+: 
+{name: {…}, tld: Array(1), cca2: 'GL', ccn3: '304', independent: false, …}
+12
+: 
+{name: {…}, tld: Array(1), cca2: 'UM', ccn3: '581', independent: false, …}
+13
+: 
+{name: {…}, tld: Array(1), cca2: 'GQ', ccn3: '226', cioc: 'GEQ', …}
+14
+: 
+{name: {…}, tld: Array(1), cca2: 'GP', ccn3: '312', independent: false, …}
+15
+: 
+{name: {…}, tld: Array(2), cca2: 'SH', ccn3: '654', independent: false, …}
+16
+: 
+{name: {…}, tld: Array(1), cca2: 'TR', ccn3: '792', cioc: 'TUR', …}
+17
+: 
+{name: {…}, tld: Array(1), cca2: 'TD', ccn3: '148', cioc: 'CHA', …}
+18
+: 
+{name: {…}, tld: Array(1), cca2: 'HN', ccn3: '340', cioc: 'HON', …}
+19
+: 
+{name: {…}, tld: Array(1), cca2: 'AT', ccn3: '040', cioc: 'AUT', …}
+20
+: 
+{name: {…}, tld: Array(1), cca2: 'RO', ccn3: '642', cioc: 'ROU', …}
+21
+: 
+{name: {…}, tld: Array(1), cca2: 'GA', ccn3: '266', cioc: 'GAB', …}
+22
+: 
+{name: {…}, tld: Array(1), cca2: 'NA', ccn3: '516', cioc: 'NAM', …}
+23
+: 
+{name: {…}, tld: Array(1), cca2: 'RW', ccn3: '646', cioc: 'RWA', …}
+24
+: 
+{name: {…}, tld: Array(1), cca2: 'VC', ccn3: '670', cioc: 'VIN', …}
+25
+: 
+{name: {…}, tld: Array(1), cca2: 'BG', ccn3: '100', cioc: 'BUL', …}
+26
+: 
+{name: {…}, tld: Array(1), cca2: 'CO', ccn3: '170', cioc: 'COL', …}
+27
+: 
+{name: {…}, tld: Array(1), cca2: 'SR', ccn3: '740', cioc: 'SUR', …}
+28
+: 
+{name: {…}, tld: Array(1), cca2: 'ZW', ccn3: '716', cioc: 'ZIM', …}
+29
+: 
+{name: {…}, tld: Array(1), cca2: 'VE', ccn3: '862', cioc: 'VEN', …}
+30
+: 
+{name: {…}, tld: Array(1), cca2: 'SZ', ccn3: '748', cioc: 'SWZ', …}
+31
+: 
+{name: {…}, tld: Array(1), cca2: 'PH', ccn3: '608', cioc: 'PHI', …}
+32
+: 
+{name: {…}, tld: Array(1), cca2: 'TM', ccn3: '795', cioc: 'TKM', …}
+33
+: 
+{name: {…}, tld: Array(2), cca2: 'DZ', ccn3: '012', cioc: 'ALG', …}
